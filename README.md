@@ -25,39 +25,12 @@
 
 ---
 
-### ⚫ [이모티콘뷰어.site](https://이모티콘뷰어.site) — 핵심 프로젝트
-실서비스를 기획부터 운영까지 혼자 담당하며 다음을 직접 설계/구현했습니다.
-- Supabase(PostgreSQL) 기반 DB 설계 및 RLS(Row Level Security) 보안 정책 적용
-- 회원가입/로그인/소셜 인증 등 사용자 인증 시스템 구축
-- Kakao Pay 결제 API 연동 (프리미엄 유료화)
-- REST API 설계부터 클라이언트 연동까지 전 과정 담당
-- 이미지 lazy loading + 캐싱으로 초기 응답 지연 개선
-
 ---
 
-### ⚫ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white"/>
-</p>
-
+### ⚫ Interest
+- Product Engineering (아이디어를 플랫폼 상관없이 실서비스로 완성하는 것)
+- Web & Mobile Development (Web, Android, Chrome Extension, Desktop)
+- AI-Native Workflow (Claude를 개발 파트너로 활용하는 방식 자체에 대한 관심)
 ---
 
-### ⚫ 자격증 & 어학
-<p align="left">
-  <img src="https://img.shields.io/badge/TOPCIT-3급-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLD-합격-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ADsP-합격-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NCA-NAVER_Cloud-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TOEIC-655-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JLPT-N4-000000?style=flat-square"/>
-</p>
-
----
 
