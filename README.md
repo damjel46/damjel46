@@ -61,6 +61,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damjel46&show_icons=true&theme=dark" alt="damjel46's GitHub stats" />
-</p>
