@@ -8,7 +8,7 @@
 - ⚫ 기획 → 개발(FE/BE/DB) → 보안 → 결제 → 배포 → 운영까지 전 과정을 혼자 설계·구축한 경험이 있습니다
 - ⚫ 공식 문서와 GitHub 이슈를 먼저 찾아보는 디버깅 습관을 갖고 있습니다
 - ⚫ damjel46@gmail.com
-- ⚫ **[포트폴리오 링크](https://www.notion.so/385c07b6bb3881acbbeaf731b9a1066b?source=copy_link))** 
+- ⚫ **[포트폴리오 링크](https://www.notion.so/385c07b6bb3881acbbeaf731b9a1066b?source=copy_link)** 
 
 ---
 
